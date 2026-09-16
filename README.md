@@ -1,3 +1,7 @@
+## Parcours francais
+
+Une lecture documentaire en francais du projet Remix est disponible dans [docs/fr/README.md](docs/fr/README.md). Elle couvre architecture, compilation Solidity, AST, plugins, espaces de travail, debogage et limites, sans installation ni execution.
+
 <p align="center">
   <img src="./apps/remix-ide/src/assets/img/icon.png" alt="Remix Logo" width="200"/>
 </p>
